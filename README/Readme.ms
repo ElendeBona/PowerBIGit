@@ -36,3 +36,9 @@ foram criadas várias medidas com DAX:
 
 
 ➡️✔Resumindo, este projeto foi interessante e desafiador, foi importante por ter me permitido remodelar os principais KPIs da área financeira e usar minhas habilidades em metodologia ELT, extração e estruturação de dados, conexão entre ferramentas, a análise desses dados e trabalhar o design/layout. Espero que essa experiência possa inspirar outros colegas a explorar várias possibilidades e principalmente a riqueza da leitura correta e sólida dos dados pode trazer para a SAÚDE de uma empresa.
+
+
+Veja as imagens de acordo com a ordem:
+1 - dash fin receita.png
+2 - dash fin fluxo de caixa.png
+3 - dash fin simulador.png
