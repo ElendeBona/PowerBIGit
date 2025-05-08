@@ -1,11 +1,13 @@
-Gostaria de compartilhar com vocês o dashboard desenvolvido para realizar o acompanhamento de receita, custos e performance para analisar a saúde financeira da empresa. Criei este painel utilizando o Power Bi e um banco de dados público da Big Query com dados fictícios de uma empresa e seu fluxo de caixa. Para o design do dashboard, utilizei inspiração de alguns perfis da rede social, da web e da ferramenta Figma.
+## A🍒 do 🎂 >>> O SIMULADOR FINANCEIRO 
 
-O processo de ETL dos dados foi feito para extrair informações relevantes e relacioná-los em um formato utilizável para o PwBI. Com o banco de dados da Big Query e Power Query, consegui executar esse processo de maneira eficiente, criando medidas customizadas para o fim proposto, o que permitiu criar um dashboard de análise de receita, margem bruta e custos.
+Gostaria de compartilhar aqui um dashboard desenvolvido para realizar o acompanhamento de receita, custos e performance para analisar a saúde financeira da empresa. Criei este painel utilizando o **Power BI** e um banco de dados público da **Big Query** com dados fictícios de uma empresa e seu fluxo de caixa. Para o design do dashboard, utilizei inspiração de alguns perfis da rede social, da web e da ferramenta **Figma**.
+
+O processo de **ETL dos dados** foi feito para extrair informações relevantes e relacioná-los em um formato utilizável para o PwBI. Com o banco de dados da Big Query e **Power Query** consegui executar esse processo de maneira eficiente, criando medidas customizadas para o fim proposto, o que permitiu criar um dashboard de análise de receita, margem bruta e custos.
 
 Através dele é possível fazer uma análise completa dos principais KPIs da área financeira, e com eles entender detalhes importantes sobre todo o processo de vendas de uma empresa.
 
 Perguntas que podem ser respondidas facilmente:
-
+>
 - Total de Receita;
 - Margem Bruta;
 - Receita por Produto;
@@ -16,10 +18,11 @@ Perguntas que podem ser respondidas facilmente:
 - Total de Despesas;
 - Total de Lucro;
 - Total de Vendas por Mês;
-- Retorno sobre o Investimento (ROI);
-A🍒 do 🎂 >>> O Simulador Financeiro para prover cenários adversos positivamente ou negativamente do realizado de forma Visual, Simples e Prática e assim ter insighs rápidos para tomadas de decisão;
+- Retorno sobre o Investimento (ROI);<br>
 
-foram criadas várias medidas com DAX: 
+> # A🍒 do 🎂 >>> O Simulador Financeiro para prover cenários adversos positivamente ou negativamente do realizado de forma Visual, Simples e Prática e assim ter insighs rápidos para tomadas de decisão;
+
+foram criadas várias medidas com **DAX**: 
 
 ✨Receita
 ✨Margem Bruta
@@ -39,6 +42,6 @@ foram criadas várias medidas com DAX:
 
 
 Veja as imagens de acordo com a ordem:
-1 - dash fin receita.png
-2 - dash fin fluxo de caixa.png
-3 - dash fin simulador.png
+1 - ![DASH FIN](<dash fin receita.png>)
+2 - ![DASH FIN fluxo de caixa](<dash fin fluxo de caixa.png>)
+3 - ![DASH FIN SIMULADOR](<dash fin simulador.png>)
