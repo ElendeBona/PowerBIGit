@@ -42,6 +42,6 @@ foram criadas várias medidas com **DAX**:
 
 
 Veja as imagens de acordo com a ordem:
-1 - ![DASH FIN](<dash fin receita.png>)
-2 - ![DASH FIN fluxo de caixa](<dash fin fluxo de caixa.png>)
-3 - ![DASH FIN SIMULADOR](<dash fin simulador.png>)
+1 - ![DASH FIN](<README/dash fin receita.png>)
+2 - ![DASH FIN fluxo de caixa](<README/dash fin fluxo de caixa.png>)
+3 - ![DASH FIN SIMULADOR](<README/dash fin simulador.png>)
